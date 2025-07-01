@@ -1,5 +1,5 @@
 # you_shall_not_pass
-offline password manager
+Offline Password Manager
 
 This program creates a command line program to manage passwords accessibly and securely. The command takes in a website or service for which the user has stored a password, and, upon receiving the correct password, will copy the password directly to the user's clipboard. This allows for long and complex passwords to easily be copied without accidentally also copying extra spacers and such. 
 
